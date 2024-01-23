@@ -135,7 +135,7 @@ const Footer = function () {
                         <Link href="/login">Login</Link>
                       </li>
                       <li>
-                        <Link href="/my-account">My account</Link>
+                        <Link href="#">My account</Link>
                       </li>
                       <li>
                         <Link href="/about">Terms & Conditions</Link>
@@ -156,7 +156,7 @@ const Footer = function () {
                         <Link href="/login">Login</Link>
                       </li>
                       <li>
-                        <Link href="/my-account">My account</Link>
+                        <Link href="#">My account</Link>
                       </li>
                       <li>
                         <Link href="/wishlist">Wish List</Link>

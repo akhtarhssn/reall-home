@@ -144,7 +144,6 @@ function HomePage(props) {
     ],
   };
 
-
   const { cartItems } = useSelector((state) => state.cart);
   const { wishlistItems } = useSelector((state) => state.wishlist);
   const { compareItems } = useSelector((state) => state.compare);
@@ -358,7 +357,7 @@ function HomePage(props) {
                           </Col>
                           <Col xs={12} lg={6}>
                             <div className="apartments-plan-img">
-                              <img src="/img/others/10.png" alt="#" />
+                              <img src="/img/others/60.png" alt="#" />
                             </div>
                           </Col>
                         </Row>
@@ -452,7 +451,7 @@ function HomePage(props) {
                           </Col>
                           <Col xs={12} lg={6}>
                             <div className="apartments-plan-img">
-                              <img src="/img/others/10.png" alt="#" />
+                              <img src="/img/others/50.jpg" alt="#" />
                             </div>
                           </Col>
                         </Row>
@@ -511,7 +510,6 @@ function HomePage(props) {
             </Row>
           </Container>
         </div>
-
 
         {/* <!-- VIDEO AREA START --> */}
         <div className="ltn__video-popup-area">

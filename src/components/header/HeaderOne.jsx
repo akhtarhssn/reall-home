@@ -186,7 +186,7 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
                           <Link href="/register">Register</Link>
                         </li>
                         <li>
-                          <Link href="/my-account">My Account</Link>
+                          <Link href="#">My Account</Link>
                         </li>
                         <li>
                           <Link href="/wishlist">Wishlist</Link>
