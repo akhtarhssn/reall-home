@@ -37,3 +37,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # reall-home
+
+```bash
+function isPalindrome(str) {
+    const clearString = str.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
+    
+    const reversedString = clearString.split('').reverse().join('');
+    
+    return clearString === reversedString;
+}
+```
